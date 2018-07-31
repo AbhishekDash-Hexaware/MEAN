@@ -1,0 +1,59 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 10
+    },
+    "auditLog": "logs/.audit.json",
+    "files": [
+        {
+            "date": 1532408693576,
+            "name": "logs\\-prodlog.log.2018-07-24",
+            "hash": "8f3d7d06055b7a814b1d914653b2a8b6"
+        },
+        {
+            "date": 1532408693581,
+            "name": "logs\\-staginglog.log.2018-07-24",
+            "hash": "ffa68c9176efbd2cf60ba7ccd7c01206"
+        },
+        {
+            "date": 1532408716285,
+            "name": "logs\\-prodlog.log.2018-07-24",
+            "hash": "5783cdac2ff1a3ce071255a85c073ff0"
+        },
+        {
+            "date": 1532408716297,
+            "name": "logs\\-staginglog.log.2018-07-24",
+            "hash": "a25d2b11a27c170a40aa75106ecdb0cc"
+        },
+        {
+            "date": 1532408820460,
+            "name": "logs\\-prodlog.log.2018-07-24",
+            "hash": "ed3ab09833cb93d9edfdf0fce222d1a0"
+        },
+        {
+            "date": 1532408820464,
+            "name": "logs\\-staginglog.log.2018-07-24",
+            "hash": "b707236cd7653e7e2cf987f3fd4f478a"
+        },
+        {
+            "date": 1532408940656,
+            "name": "logs\\-prodlog.log.2018-07-24",
+            "hash": "b2470d4ba34ba33db231bfcc08049a9e"
+        },
+        {
+            "date": 1532408940664,
+            "name": "logs\\-staginglog.log.2018-07-24",
+            "hash": "f9c2f415346e3395ba21bbf853efef14"
+        },
+        {
+            "date": 1532408966334,
+            "name": "logs\\-prodlog.log.2018-07-24",
+            "hash": "3c333cc2057dd6633c4ff79bcc7a44ab"
+        },
+        {
+            "date": 1532408966334,
+            "name": "logs\\-staginglog.log.2018-07-24",
+            "hash": "f7da3e38773b947902a16fb824301aab"
+        }
+    ]
+}

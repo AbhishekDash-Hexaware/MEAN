@@ -1,0 +1,18 @@
+{
+  "name": "boiler-plate-mean",
+  "version": "1.0.0",
+  "description": "base code for Mean web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "abhishek dash",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongodb": "^3.1.1",
+    "nodemon": "^1.18.3",
+    "winston": "^3.0.0",
+    "winston-daily-rotate-file": "^3.3.0"
+  }
+}
